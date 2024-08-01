@@ -36,10 +36,11 @@ Please join here or send an e-mail to [CompMS+subscribe@googlegroups.com](mailto
 
 ## USEFUL LINKS
 - [ISCB Communities of Special Interest (COSIs)](http://cosi.iscb.org/wiki/Main_Page) 
-- [International Society for Computational Biology (ISCB)](https://web.archive.org/web/20231031073133/http://www.iscb.org/)
-- [Metabolomics Society](https://web.archive.org/web/20231031073133/http://metabolomicssociety.org/)
+- [International Society for Computational Biology (ISCB)](http://www.iscb.org/)
+- [Metabolomics Society](http://metabolomicssociety.org/)
 
 ## SPONSORS
+
 <p float="left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hupo.gif" height="130" />
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iscb.png" height="130" />
