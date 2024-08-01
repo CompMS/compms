@@ -41,7 +41,7 @@ Please join here or send an e-mail to [CompMS+subscribe@googlegroups.com](mailto
 
 ## SPONSORS
 <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hupo.png" width="300" />
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iscb.jpg" width="300" />
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/metabolomics_society.jpg" width="300" />
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hupo.gif" height="200" />
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iscb.jpg" height="200" />
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/metabolomics_society.jpg" height="200" />
 </p>
