@@ -3,6 +3,8 @@ permalink: /
 title: ""
 header:
   image: /assets/images/header.jpg
+footer:
+
 ---
 
 The CompMS group promotes the efficient, high quality analysis of mass spectrometry data through dissemination and training in existing approaches and coordination of new, innovative approaches. The CompMS initiative aims to exploit synergies between different application domains, in particular proteomics and metabolomics.
@@ -31,5 +33,10 @@ It is a joint initiative of the ISCB Community of Special Interest Computational
 
 Mailing list: [CompMS@googlegroups.com](mailto:CompMS@googlegroups.com)  
 Please join here or send an e-mail to [CompMS+subscribe@googlegroups.com](mailto:CompMS+subscribe@googlegroups.com)
+
+## USEFUL LINKS
+[ISCB Communities of Special Interest (COSIs)](http://cosi.iscb.org/wiki/Main_Page) 
+[International Society for Computational Biology (ISCB)](https://web.archive.org/web/20231031073133/http://www.iscb.org/)
+[Metabolomics Society](https://web.archive.org/web/20231031073133/http://metabolomicssociety.org/)
 
 
