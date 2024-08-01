@@ -27,7 +27,7 @@ It is a joint initiative of the ISCB Community of Special Interest Computational
 
 ### FOUNDING COMMITTEE
 
-**Ruedi Aebersold**, **Theodore Alexandrov**, **Henning Hermjakob**, **Oliver Kohlbacher**, **Steffen Neumann**, **Shoba Ranganathan**, **Olga Vitek**
+Ruedi Aebersold, Theodore Alexandrov, Henning Hermjakob, Oliver Kohlbacher, Steffen Neumann, Shoba Ranganathan, Olga Vitek
 
 ## GET IN TOUCH
 
@@ -35,8 +35,8 @@ Mailing list: [CompMS@googlegroups.com](mailto:CompMS@googlegroups.com)
 Please join here or send an e-mail to [CompMS+subscribe@googlegroups.com](mailto:CompMS+subscribe@googlegroups.com)
 
 ## USEFUL LINKS
-[ISCB Communities of Special Interest (COSIs)](http://cosi.iscb.org/wiki/Main_Page) 
-[International Society for Computational Biology (ISCB)](https://web.archive.org/web/20231031073133/http://www.iscb.org/)
-[Metabolomics Society](https://web.archive.org/web/20231031073133/http://metabolomicssociety.org/)
+- [ISCB Communities of Special Interest (COSIs)](http://cosi.iscb.org/wiki/Main_Page) 
+- [International Society for Computational Biology (ISCB)](https://web.archive.org/web/20231031073133/http://www.iscb.org/)
+- [Metabolomics Society](https://web.archive.org/web/20231031073133/http://metabolomicssociety.org/)
 
 
