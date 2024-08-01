@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -74,6 +74,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+
+header:
+  image: /assets/images/header.jpg
 
 footer:
 #  links:
