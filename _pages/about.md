@@ -7,7 +7,7 @@ footer:
 
 ---
 
-The CompMS group promotes the efficient, high quality analysis of mass spectrometry data through dissemination and training in existing approaches and coordination of new, innovative approaches. The CompMS initiative aims to exploit synergies between different application domains, in particular proteomics and metabolomics.
+The CompMS group promotes the efficient, high-quality analysis of mass spectrometry data through dissemination and training in existing approaches and coordination of new, innovative approaches. The CompMS initiative aims to exploit synergies between different application domains, in particular proteomics and metabolomics.
 
 Our mission is to
 
@@ -39,4 +39,9 @@ Please join here or send an e-mail to [CompMS+subscribe@googlegroups.com](mailto
 - [International Society for Computational Biology (ISCB)](https://web.archive.org/web/20231031073133/http://www.iscb.org/)
 - [Metabolomics Society](https://web.archive.org/web/20231031073133/http://metabolomicssociety.org/)
 
-
+## SPONSORS
+<p float="left">
+  <img src="/assets/images/hupo.png" width="300" />
+  <img src="/assets/images/iscb.jpg" width="300" /> 
+  <img src="/assets/images/metabolomics_society.jpg" width="300" />
+</p>
