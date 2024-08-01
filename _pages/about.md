@@ -1,11 +1,9 @@
 ---
 permalink: /
-title: "About"
+title: ""
 header:
   image: /assets/images/header.jpg
 ---
-
-## ABOUT
 
 The CompMS group promotes the efficient, high quality analysis of mass spectrometry data through dissemination and training in existing approaches and coordination of new, innovative approaches. The CompMS initiative aims to exploit synergies between different application domains, in particular proteomics and metabolomics.
 
@@ -17,25 +15,17 @@ Our mission is to
 
 It is a joint initiative of the ISCB Community of Special Interest Computational Mass Spectrometry (CoSI CompMS) with the HUPO Computational Mass Spectrometry Initiative (HUPO CompMS) and the Task group "Computational Mass Spectrometry" of the Metabolomics Society.
 
-## CONTACT
-
-### COMPMS COMMITTEE
+### COMPMS ORGANIZERS AND COMMITTEE
 
 - **Wout Bittremieux**, University of Antwerp, BE
 - **Isabell Bludau**, Max Planck Institute of Biochemistry, DE
 - **Marie Brunet**, Université de Sherbrooke, CA
 - **Lindsay Pino**, Talus Bioscience, US
-- **Timo Sachsenberg**, University of Tubingen, Germany
+- **Timo Sachsenberg**, University of Tubingen, DE
 
 ### FOUNDING COMMITTEE
 
-- **Ruedi Aebersold**, ETH Zurich, Switzerland
-- **Theodore Alexandrov**, European Molecular Biology laboratory
-- **Henning Hermjakob**, European Bioinformatics Institute, Cambridge, UK
-- **Oliver Kohlbacher**, University of Tubingen, Germany (chair)
-- **Steffen Neumann**, IPB Halle, Germany
-- **Shoba Ranganathan**, Macquarie University, Sydney, Australia (co-chair)
-- **Olga Vitek**, Northeastern University, United States (co-chair)
+**Ruedi Aebersold**, **Theodore Alexandrov**, **Henning Hermjakob**, **Oliver Kohlbacher**, **Steffen Neumann**, **Shoba Ranganathan**, **Olga Vitek**
 
 ## GET IN TOUCH
 
