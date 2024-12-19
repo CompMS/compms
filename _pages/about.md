@@ -30,8 +30,9 @@ It is a joint initiative of the ISCB Community of Special Interest Computational
 Ruedi Aebersold, Theodore Alexandrov, Henning Hermjakob, Oliver Kohlbacher, Steffen Neumann, Shoba Ranganathan, Olga Vitek
 
 ## GET IN TOUCH
+Slack: Join the [CompMS Slack Workspace](https://join.slack.com/t/compms/shared_invite/zt-24neur6wz-gu2KmKAnWcDAWspC9uNIeQ) to participate in real-time discussions, ask questions, and collaborate with other members.
 
-Mailing list: [CompMS@googlegroups.com](mailto:CompMS@googlegroups.com)  
+Mailing list: [CompMS@googlegroups.com](mailto:CompMS@googlegroups.com) 
 Please join here or send an e-mail to [CompMS+subscribe@googlegroups.com](mailto:CompMS+subscribe@googlegroups.com)
 
 ## USEFUL LINKS
